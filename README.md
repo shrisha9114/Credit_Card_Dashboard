@@ -83,3 +83,8 @@ From a professional standpoint, businessmen and white-collar employees dominate 
 
 These insights empower financial institutions to refine their service offerings, optimize card portfolios, and design targeted campaigns that address the needs of high-value customer groups while improving overall customer satisfaction and loyalty. By leveraging the trends and patterns identified, banks can minimize credit risks, boost revenue, and ensure a more streamlined approach to portfolio management.  
 
+##Snapshots of Dashboards
+
+![Screenshot (91)](https://github.com/user-attachments/assets/79677bd8-648f-4192-b29d-73443ca2a10a)
+
+![Screenshot (90)](https://github.com/user-attachments/assets/441127d3-d95a-4b53-ac0d-1cd5ec173ce6)
